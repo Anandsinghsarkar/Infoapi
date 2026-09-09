@@ -1,0 +1,7 @@
+{
+  "name": "infoapi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple Vercel JSON REST API",
+  "type": "module"
+}
